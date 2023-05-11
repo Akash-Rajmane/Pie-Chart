@@ -1,7 +1,7 @@
 import React,{useMemo,useState} from 'react';
 import "./App.css";
 import Pie from './Pie';
-;
+
 
 const InputField = () => {
     let arraySize: any;
